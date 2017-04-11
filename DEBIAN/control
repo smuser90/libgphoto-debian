@@ -1,7 +1,7 @@
 Package: libgphoto2
 Priority: extra
 Maintainer: alpine-labs
-Architecture: armv7l
+Architecture: armel
 Version: 2.5.8
 Provides: libgphoto2
 Description: libgphoto2 custom install for Pulse Pro
